@@ -1,0 +1,10 @@
+anamika_patel,1111,Female,Reading,Delhi,222222,Submit
+anamika_patel,1111,Female,Reading,Delhi,222222,Submit
+anamika,111,Male,Music,Madhya Pradesh,111111,Submit
+ANAMIKA,111,Male,Music,Madhya Pradesh,2222222222222222222,Submit
+anamika,1111,Female,Reading,Delhi,22222,Submit
+
+anamika,1111,Female,Reading,Madhya Pradesh,11111111111,Submit
+anamika,2222,Male,Music,Madhya Pradesh,23456,Submit
+
+anamika,1111,Male,Music,Madhya Pradesh,1111,Submit
